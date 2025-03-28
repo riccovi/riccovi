@@ -1,8 +1,8 @@
 ## Ricco 👋
 
-⚡ 3rd Year BSc. Computer Science Student <br>
-🎓 MLNN/AI and Data Science <br>
-✨ Enjoys Web and Game Development <br>
+⚡ Software Developer <br>
+🎓 BSc. Computer Science <br>
+✨ Enjoys Web/Game/Mobile Development <br>
 🎲 I think Cryptic Crosswords are underated 
 
 ### Languages
