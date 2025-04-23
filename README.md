@@ -1,6 +1,6 @@
 ## Ricco 👋
 
-⚡ Software Developer <br>
+⚡ Software Developer & Project Manager <br>
 🎓 BSc. Computer Science <br>
 ✨ Enjoys Web/Game/Mobile Development <br>
 🎲 I think Cryptic Crosswords are underated 
