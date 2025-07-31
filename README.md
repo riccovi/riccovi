@@ -3,7 +3,7 @@
 ⚡ Software Developer & Project Manager <br>
 🎓 BSc. Computer Science <br>
 ✨ Enjoys Web/Game/Mobile Development <br>
-🎲 I think Cryptic Crosswords are underated 
+🎲 I think Cryptic Crosswords are underrated 
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
