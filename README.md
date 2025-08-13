@@ -25,7 +25,7 @@
 ### Websites
 [![](https://img.shields.io/badge/-Github-000?&logo=Github)](https://github.com/riccovi) 
 [![](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://linkedin.com/in/riccov2)
-[![](https://img.shields.io/badge/-🎮Medal%20Winners%2024-000)](https://store.steampowered.com/app/2645800/MEDAL_WINNERS_24/)
+[![](https://img.shields.io/badge/-💼Portfolio-000)](https://ricco-portfolio.vercel.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccovi&layout=compact&exclude_repo=DSCapstone&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
